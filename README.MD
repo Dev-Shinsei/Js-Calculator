@@ -1,0 +1,1 @@
+So, this is my first vanilla js calculator, any thoughts or ideas of improvement, i'll love to hear it, thanks!
